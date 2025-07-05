@@ -50,43 +50,67 @@ This repository demonstrates my experience in developing **enterprise-grade appl
 - **Architecture**: Microservices-ready backend with MongoDB integration
 - **Highlights**: Modern backend development practices
 
-## 🛠️ **Technology Stack**
+## 🛠️ **Technology Stack & Skills**
 
-### **Frontend Technologies**
-- **Mobile**: React Native, Expo SDK
-- **Desktop**: Angular, Electron
-- **State Management**: Redux, Redux Toolkit
-- **UI/UX**: React Navigation, Angular Material
-- **Languages**: TypeScript, JavaScript
+### **🚀 Development Skills**
 
-### **Backend Technologies**
-- **Runtime**: Node.js
-- **Frameworks**: Express.js
-- **Databases**: MongoDB with Mongoose ODM
-- **Authentication**: JWT, bcrypt
-- **Real-time**: Socket.io
+#### **ADVANCED**
+- **React.js** - Modern web application development with hooks, context, and performance optimization
+- **React Native** - Cross-platform mobile development with Expo SDK and native modules
+- **Node.js** - Server-side JavaScript development with Express.js and microservices architecture
 
-### **Development Tools & Practices**
-- **Code Quality**: ESLint, Prettier, TypeScript
-- **Testing**: Jest, Expo Testing Library
-- **Build Tools**: Metro, Angular CLI, Webpack
-- **Version Control**: Git with conventional commits
-- **Security**: Environment variables, secure authentication
+#### **INTERMEDIATE**
+- **Angular** - Component-based web applications with TypeScript and Angular Material
+- **Ionic / Capacitor** - Hybrid mobile app development with web technologies
+- **Express.js** - RESTful API development and middleware implementation
+- **MongoDB** - NoSQL database design with Mongoose ODM and aggregation pipelines
 
-### **Cloud & DevOps**
-- **Cloud Services**: Firebase (Authentication, Storage, Messaging)
-- **APIs**: Google Maps, RESTful services
-- **Configuration**: Environment-based configuration
-- **Security**: API key management, secure credential handling
+#### **FUNDAMENTALS**
+- **Vue.js** - Progressive web framework for building user interfaces
+- **Laravel** - PHP web application framework with Eloquent ORM
+- **PHP** - Server-side scripting and web development
+- **MySQL/PostgreSQL** - Relational database design and optimization
 
-## 📊 **Project Statistics**
+### **💻 Software & Development Tools**
+- **Project Management**: Jira, Atlassian Portfolio for agile project tracking
+- **Version Control**: Git with Bitbucket for collaborative development
+- **Methodologies**: Agile & Waterfall project management approaches
+- **Cloud Infrastructure**: Hetzner cloud server setup and management
+- **Integration**: API integration and third-party service implementation
+- **Design**: Responsive design and cross-browser compatibility
+- **Accessibility**: Web accessibility standards (WCAG) compliance
+- **DevOps**: CI/CD basics for automated deployment pipelines
+
+### **🏗️ Architecture & Frameworks**
+- **Frontend**: React.js, Angular, Vue.js with TypeScript/JavaScript
+- **Mobile**: React Native, Expo SDK, Ionic/Capacitor
+- **Backend**: Node.js, Express.js, Laravel, PHP
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **State Management**: Redux, Redux Toolkit, Vuex
+- **UI/UX**: React Navigation, Angular Material, responsive frameworks
+
+### **🔧 Development Environment**
+- **Code Quality**: ESLint, Prettier, TypeScript for type safety
+- **Testing**: Jest, Expo Testing Library, PHPUnit
+- **Build Tools**: Metro, Angular CLI, Webpack, Vite
+- **Version Control**: Git with conventional commits and branching strategies
+- **Security**: Environment variables, JWT authentication, secure coding practices
+
+## 📊 **Skills & Project Statistics**
+
+| Skill Level | Technologies | Project Applications |
+|-------------|-------------|---------------------|
+| **Advanced** | React.js, React Native, Node.js | 10 projects |
+| **Intermediate** | Angular, Ionic/Capacitor, Express.js, MongoDB | 3 projects |
+| **Fundamentals** | Vue.js, Laravel, PHP, MySQL/PostgreSQL | Architecture knowledge |
+| **Development Tools** | Jira, Git, Bitbucket, Agile/Waterfall | All projects |
 
 | Category | Count | Primary Technologies |
 |----------|-------|---------------------|
-| Mobile Apps | 9 | React Native, Expo, TypeScript |
+| Mobile Apps | 9 | React Native, Expo, TypeScript, Ionic |
 | Desktop Apps | 1 | Angular, Electron, Node.js |
 | Backend Services | 1 | Node.js, Express, MongoDB |
-| **Total Projects** | **11** | **13+ Technologies** |
+| **Total Projects** | **11** | **15+ Technologies & Tools** |
 
 ## 🏗️ **Architecture Highlights**
 
@@ -144,12 +168,14 @@ evergreen-projects-portfolio/
 
 ## 🎯 **Professional Highlights**
 
-- **Full-Stack Development**: Experience across frontend, backend, and mobile
-- **Modern Technologies**: Proficiency in latest frameworks and tools
-- **Enterprise Solutions**: Development of scalable business applications
-- **Security-First Approach**: Implementation of security best practices
-- **Code Quality**: Emphasis on maintainable, well-documented code
-- **Cross-Platform Expertise**: Mobile, desktop, and web development
+- **Full-Stack Development**: Advanced expertise in React.js, React Native, and Node.js
+- **Cross-Platform Solutions**: Mobile (React Native, Ionic), Desktop (Angular, Electron), Web (React, Vue.js)
+- **Backend Architecture**: Node.js/Express.js, PHP/Laravel, MongoDB, MySQL/PostgreSQL
+- **Enterprise Solutions**: Scalable applications with Agile/Waterfall methodologies
+- **Cloud & DevOps**: Hetzner cloud setup, CI/CD pipelines, API integration
+- **Quality Assurance**: WCAG accessibility, responsive design, cross-browser compatibility
+- **Project Management**: Jira, Atlassian Portfolio, Git/Bitbucket workflows
+- **Security-First Approach**: JWT authentication, secure coding practices, environment management
 
 ## 📞 **Contact Information**
 

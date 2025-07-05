@@ -2,26 +2,53 @@
 
 > **Comprehensive overview of technologies, frameworks, and tools used across the Evergreen Projects Portfolio**
 
-## 📊 **Technology Distribution**
+## 📊 **Skills & Technology Distribution**
+
+### **🚀 Development Skills by Proficiency Level**
+
+| Skill Level | Technologies | Project Applications | Experience Level |
+|-------------|-------------|---------------------|------------------|
+| **ADVANCED** | React.js, React Native, Node.js | 10+ projects | Production-ready |
+| **INTERMEDIATE** | Angular, Ionic/Capacitor, Express.js, MongoDB | 3+ projects | Professional use |
+| **FUNDAMENTALS** | Vue.js, Laravel, PHP, MySQL/PostgreSQL | Architecture & concepts | Learning & growth |
+
+### **💼 Software & Development Tools**
+
+| Tool Category | Technologies | Usage |
+|---------------|-------------|-------|
+| **Project Management** | Jira, Atlassian Portfolio | Agile & Waterfall methodologies |
+| **Version Control** | Git, Bitbucket | Collaborative development |
+| **Cloud & Infrastructure** | Hetzner cloud servers | Server setup & management |
+| **Quality Assurance** | WCAG, Responsive design | Cross-browser compatibility |
+| **DevOps** | CI/CD basics | Automated deployment |
+
+### **📱 Technology Distribution by Category**
 
 | Category | Technologies | Projects Using |
 |----------|-------------|----------------|
-| **Mobile Development** | React Native, Expo | 9 projects |
+| **Mobile Development** | React Native, Expo, Ionic/Capacitor | 9 projects |
 | **Desktop Development** | Angular, Electron | 1 project |
-| **Backend Development** | Node.js, Express, MongoDB | 2 projects |
-| **Programming Languages** | TypeScript, JavaScript | All projects |
-| **State Management** | Redux, Redux Toolkit | 10 projects |
-| **Database** | MongoDB, Mongoose | 2 projects |
+| **Backend Development** | Node.js, Express, MongoDB, PHP, Laravel | 2+ projects |
+| **Web Development** | React.js, Vue.js, Angular | Multiple projects |
+| **Programming Languages** | TypeScript, JavaScript, PHP | All projects |
+| **State Management** | Redux, Redux Toolkit, Vuex | 10+ projects |
+| **Databases** | MongoDB, MySQL, PostgreSQL | Multiple projects |
 | **Authentication** | JWT, bcrypt | All projects |
 
 ## 📱 **Mobile Development Stack**
 
-### **Core Framework**
-- **React Native 0.79.2**
+### **Advanced Mobile Technologies**
+- **React Native 0.79.2** (ADVANCED)
   - Cross-platform mobile development
   - Native performance with JavaScript
   - Hot reloading and fast development cycles
   - Large ecosystem and community support
+
+- **Ionic/Capacitor** (INTERMEDIATE)
+  - Hybrid mobile app development
+  - Web technologies for native apps
+  - Cross-platform deployment
+  - Native device API access
 
 ### **Development Platform**
 - **Expo SDK 53**
@@ -96,14 +123,35 @@
   - Biometric authentication integration
   - Platform-specific security features
 
-## 🖥️ **Desktop Development Stack**
+## 🌐 **Web Development Stack**
 
-### **Frontend Framework**
-- **Angular 14.2.0**
+### **Frontend Frameworks**
+- **React.js** (ADVANCED)
+  - Modern web application development
+  - Component-based architecture with hooks
+  - Virtual DOM for performance optimization
+  - Rich ecosystem and community support
+
+- **Vue.js** (FUNDAMENTALS)
+  - Progressive web framework
+  - Template-based syntax
+  - Reactive data binding
+  - Component composition and reusability
+
+- **Angular 14.2.0** (INTERMEDIATE)
   - Component-based architecture
   - Dependency injection system
   - Reactive programming with RxJS
   - Comprehensive CLI tooling
+
+## 🖥️ **Desktop Development Stack**
+
+### **Desktop Framework**
+- **Angular + Electron** (INTERMEDIATE)
+  - Cross-platform desktop applications
+  - Web technologies for native apps
+  - Native OS integration
+  - Auto-updater and packaging
 
 ### **Desktop Platform**
 - **Electron**
@@ -134,28 +182,46 @@
 
 ## ⚙️ **Backend Development Stack**
 
-### **Runtime Environment**
-- **Node.js 22.15.21**
+### **Runtime Environments**
+- **Node.js 22.15.21** (ADVANCED)
   - JavaScript runtime for server-side development
   - Event-driven, non-blocking I/O
   - Large ecosystem (npm)
   - High performance and scalability
 
-### **Web Framework**
-- **Express.js 5.1.0**
-  - Minimal and flexible web framework
+- **PHP** (FUNDAMENTALS)
+  - Server-side scripting language
+  - Web development and API creation
+  - Large community and framework ecosystem
+  - Mature and stable platform
+
+### **Web Frameworks**
+- **Express.js 5.1.0** (INTERMEDIATE)
+  - Minimal and flexible Node.js web framework
   - Middleware architecture
   - Routing and HTTP utilities
   - Large ecosystem of plugins
 
-### **Database**
-- **MongoDB 8.15.0**
+- **Laravel** (FUNDAMENTALS)
+  - PHP web application framework
+  - Eloquent ORM for database interactions
+  - Artisan CLI for development tasks
+  - Built-in authentication and routing
+
+### **Database Technologies**
+- **MongoDB 8.15.0** (INTERMEDIATE)
   - NoSQL document database
   - Flexible schema design
   - Horizontal scaling capabilities
-  - Rich query language
+  - Rich query language and aggregation
 
-- **Mongoose**
+- **MySQL/PostgreSQL** (FUNDAMENTALS)
+  - Relational database management systems
+  - ACID compliance and data integrity
+  - Complex queries and joins
+  - Mature ecosystem and tooling
+
+- **Mongoose** (INTERMEDIATE)
   - MongoDB object modeling for Node.js
   - Schema validation and middleware
   - Query building and population
@@ -176,7 +242,39 @@
 
 ## 🔧 **Development Tools & Practices**
 
-### **Code Quality**
+### **Project Management & Collaboration**
+- **Jira**
+  - Agile project management
+  - Issue tracking and sprint planning
+  - Team collaboration and reporting
+  - Integration with development workflows
+
+- **Atlassian Portfolio**
+  - Portfolio and program management
+  - Cross-project visibility
+  - Resource planning and tracking
+  - Strategic alignment and reporting
+
+- **Agile & Waterfall Methodologies**
+  - Scrum and Kanban frameworks
+  - Sprint planning and retrospectives
+  - Traditional waterfall project management
+  - Hybrid approach implementation
+
+### **Version Control & Collaboration**
+- **Git**
+  - Distributed version control
+  - Branching and merging strategies
+  - Collaborative development workflows
+  - History tracking and rollback
+
+- **Bitbucket**
+  - Git repository hosting
+  - Pull request workflows
+  - Code review processes
+  - CI/CD pipeline integration
+
+### **Code Quality & Standards**
 - **ESLint**
   - JavaScript/TypeScript linting
   - Code style enforcement
@@ -188,6 +286,25 @@
   - Consistent code formatting
   - IDE integration
   - Team collaboration enhancement
+
+### **Web Standards & Accessibility**
+- **WCAG (Web Content Accessibility Guidelines)**
+  - Accessibility compliance standards
+  - Screen reader compatibility
+  - Keyboard navigation support
+  - Inclusive design principles
+
+- **Responsive Design**
+  - Mobile-first development approach
+  - Flexible grid systems and layouts
+  - Media queries and breakpoints
+  - Cross-device compatibility
+
+- **Cross-browser Compatibility**
+  - Browser testing and validation
+  - Progressive enhancement strategies
+  - Polyfills and fallback solutions
+  - Performance optimization across browsers
 
 ### **Testing Frameworks**
 - **Jest 29.7.0**
@@ -222,7 +339,27 @@
   - Collaborative development
   - History tracking and rollback
 
-## 🌐 **Cloud & External Services**
+## 🌐 **Cloud & DevOps**
+
+### **Cloud Infrastructure**
+- **Hetzner Cloud Servers**
+  - Cloud server setup and management
+  - Virtual private servers (VPS)
+  - Scalable infrastructure solutions
+  - Cost-effective cloud hosting
+
+### **CI/CD & DevOps**
+- **CI/CD Basics**
+  - Continuous integration pipelines
+  - Automated testing and deployment
+  - Version control integration
+  - Build automation and optimization
+
+- **API Integration**
+  - RESTful API design and consumption
+  - Third-party service integration
+  - Webhook implementation
+  - Authentication and authorization
 
 ### **Firebase Services**
 - **Firebase Authentication**
@@ -320,4 +457,31 @@
 
 ---
 
-**This technology stack demonstrates expertise across the full spectrum of modern software development, from mobile and desktop applications to backend services and cloud integration.**
+## 🎯 **Skills Summary**
+
+This comprehensive technology stack demonstrates expertise across multiple proficiency levels:
+
+### **Advanced Proficiency**
+- **React.js**: Modern web application development with hooks and performance optimization
+- **React Native**: Cross-platform mobile development with native performance
+- **Node.js**: Server-side JavaScript development with scalable architecture
+
+### **Intermediate Proficiency**
+- **Angular**: Component-based web applications with TypeScript
+- **Ionic/Capacitor**: Hybrid mobile app development
+- **Express.js**: RESTful API development and middleware implementation
+- **MongoDB**: NoSQL database design and optimization
+
+### **Fundamental Knowledge**
+- **Vue.js**: Progressive web framework understanding
+- **Laravel**: PHP web application framework concepts
+- **PHP**: Server-side scripting and web development
+- **MySQL/PostgreSQL**: Relational database design principles
+
+### **Professional Tools & Practices**
+- **Project Management**: Jira, Atlassian Portfolio, Agile/Waterfall methodologies
+- **Version Control**: Git, Bitbucket, collaborative development workflows
+- **Cloud & DevOps**: Hetzner cloud setup, CI/CD basics, API integration
+- **Quality Assurance**: WCAG accessibility, responsive design, cross-browser compatibility
+
+**This technology portfolio demonstrates comprehensive full-stack development capabilities, from frontend frameworks to backend services, mobile applications, cloud infrastructure, and professional development practices.**
