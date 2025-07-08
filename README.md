@@ -186,3 +186,4 @@ evergreen-projects-portfolio/
 ---
 
 **Built with ❤️ and professional expertise in modern software development**
+<img src="https://t.bkit.co/w_686d89124dfc2.gif" />
